@@ -1,6 +1,5 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+qwenllm/qwenvl:latest
+vllm/vllm-openai:latest
+nvidia/cuda:12.6.0-cudnn-devel-ubuntu22.04
+ghcr.io/huggingface/text-embeddings-inference:latest
+tiangolo/uvicorn-gunicorn-fastapi:latest
