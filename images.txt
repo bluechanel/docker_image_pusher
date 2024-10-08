@@ -3,3 +3,4 @@ vllm/vllm-openai:latest
 nvidia/cuda:12.6.0-cudnn-devel-ubuntu22.04
 ghcr.io/huggingface/text-embeddings-inference:latest
 tiangolo/uvicorn-gunicorn-fastapi:latest
+node:18-alpine
