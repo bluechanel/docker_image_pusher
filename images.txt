@@ -5,3 +5,4 @@ ghcr.io/huggingface/text-embeddings-inference:latest
 tiangolo/uvicorn-gunicorn-fastapi:latest
 node:18-alpine
 node:22.8.0-alpine3.20
+node:18-alpine3.16
