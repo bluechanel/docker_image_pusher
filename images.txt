@@ -1,3 +1,4 @@
+python:3.12-slim
 qwenllm/qwenvl:latest
 vllm/vllm-openai:latest
 nvidia/cuda:12.6.0-cudnn-devel-ubuntu22.04
