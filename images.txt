@@ -9,8 +9,8 @@ node:22.8.0-alpine3.20
 node:18-alpine3.16
 minio/minio:RELEASE.2023-03-20T20-16-18Z
 milvusdb/milvus:v2.5.2
-langgenius/dify-api:0.15.0
-langgenius/dify-web:0.15.0
+langgenius/dify-api:0.15.2
+langgenius/dify-web:0.15.2
 postgres:15-alpine
 redis:6-alpine
 langgenius/dify-sandbox:0.2.10
