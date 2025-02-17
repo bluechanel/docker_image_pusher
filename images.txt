@@ -6,8 +6,9 @@ tiangolo/uvicorn-gunicorn-fastapi:latest
 node:22.8.0-alpine3.20
 minio/minio:RELEASE.2023-03-20T20-16-18Z
 milvusdb/milvus:v2.5.2
-langgenius/dify-api:0.15.3
-langgenius/dify-web:0.15.3
+langgenius/dify-api:1.0.0-beta.1
+langgenius/dify-web:1.0.0-beta.1
+langgenius/dify-plugin-daemon:0.0.1-local
 postgres:15-alpine
 redis:6-alpine
 langgenius/dify-sandbox:0.2.10
@@ -15,3 +16,4 @@ ubuntu/squid:latest
 certbot/certbot
 nginx:latest
 semitechnologies/weaviate:1.19.0
+approachingai/ktransformers:0.2.1
