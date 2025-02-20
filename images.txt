@@ -20,3 +20,4 @@ infiniflow/infinity:v0.6.0-dev3
 mysql:8.0.39
 valkey/valkey:8
 elasticsearch:8.11.3
+infiniflow/ragflow:v0.16.0-slim
