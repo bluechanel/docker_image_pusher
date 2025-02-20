@@ -16,4 +16,7 @@ ubuntu/squid:latest
 certbot/certbot
 nginx:latest
 semitechnologies/weaviate:1.19.0
-approachingai/ktransformers:0.2.1
+infiniflow/infinity:v0.6.0-dev3
+mysql:8.0.39
+valkey/valkey:8
+elasticsearch:8.11.3
