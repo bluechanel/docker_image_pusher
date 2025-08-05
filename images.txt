@@ -6,9 +6,9 @@ nvidia/cuda:12.1.0-cudnn8-devel-ubuntu22.04
 nvidia/cuda:12.0.1-cudnn8-runtime-ubuntu22.04
 minio/minio:RELEASE.2023-03-20T20-16-18Z
 milvusdb/milvus:v2.5.2
-langgenius/dify-api:1.4.1
-langgenius/dify-web:1.4.1
-langgenius/dify-plugin-daemon:0.1.1-local
+langgenius/dify-api:1.7.1
+langgenius/dify-web:1.7.1
+langgenius/dify-plugin-daemon:0.2.0-local
 postgres:15-alpine
 redis:6-alpine
 langgenius/dify-sandbox:0.2.12
