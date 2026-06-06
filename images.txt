@@ -4,4 +4,4 @@ milvusdb/milvus:v2.5.2
 postgres:15-alpine
 redis:6-alpine
 mysql:8.0.39
-
+ghcr.io/ggml-org/llama.cpp:server-cuda13
