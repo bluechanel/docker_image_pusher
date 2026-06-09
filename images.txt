@@ -1,1 +1,2 @@
-qwenllm/qwen3-asr:latest
+nvcr.io/nvidia/pytorch:26.05-py3
+vllm/vllm-openai:latest
